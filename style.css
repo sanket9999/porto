@@ -93,7 +93,7 @@ html{
   body { font-size: 3.5em }
   h1 { font-size: 0.5em }
 
-  /**,
+*,
 ::after,
 ::before{
     box-sizing: border-box;
@@ -199,7 +199,7 @@ html{
     100%{
         transform: translate(110vw, 0) scale(.6);
     }
-}*/
+}
 
 /* Portfolio Section */
 #portfolio{
