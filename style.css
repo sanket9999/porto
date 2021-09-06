@@ -54,7 +54,7 @@ html{
     position: absolute;
     top: 0;
     left: 0;
-    background: url('Images/bg.jpg') no-repeat center center/cover;
+    background: url('bg.jpg') no-repeat center center/cover;
     height: 700px;
     width: 100%;
     z-index: -1;
@@ -100,7 +100,7 @@ html{
 }
 
 .bird{
-    background: url("Images/birds.svg");
+    background: url("birds.svg");
     background-size: auto 100%;
     width: 88px;
     height: 125px;
